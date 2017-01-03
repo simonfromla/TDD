@@ -54,19 +54,19 @@ class NewVisitorTest(LiveServerTestCase):
 
         # The page updates a second time and both her items are still
         # on the list
-        self.check_for_row_in_list_table('1: Look for a post-office')
         self.check_for_row_in_list_table('2: Ask Kris to send over go-pro')
+        self.check_for_row_in_list_table('1: Look for a post-office')
 
-
-        # Satisfied, she goes back to sleep.
 
     def test_multiple_users_can_start_lists_at_different_urls(self):
         # Claire starts a new todo list
         self.browser.get(self.live_server_url)
         inputbox = self.browser.find_element_by_id('id_new_item')
-        inputbox.send_keys('Buy peacock feathers')
+        inputbox.send_keys('Look for a post-office')
+
+
         inputbox.send_keys(Keys.ENTER)
-        self.check_for_row_in_list_table('1: Buy peacock feathers')
+        self.check_for_row_in_list_table('1: Look for a post-office')
 
         # She notices that her list has a unique URL
         claire_list_url = self.browser.current_url
@@ -82,15 +82,17 @@ class NewVisitorTest(LiveServerTestCase):
         # Francis visits the home page.  There is no sign of Claire's
         # list
         self.browser.get(self.live_server_url)
+
         page_text = self.browser.find_element_by_tag_name('body').text
-        self.assertNotIn('Buy peacock feathers', page_text)
-        self.assertNotIn('make a fly', page_text)
+        self.assertNotIn('Look for a post-office', page_text)
+        self.assertNotIn('to send over', page_text)
 
         # Francis starts a new list by entering a new item. He
         # is less interesting than Edith...
         inputbox = self.browser.find_element_by_id('id_new_item')
         inputbox.send_keys('Buy milk')
         inputbox.send_keys(Keys.ENTER)
+        time.sleep(3)
         self.check_for_row_in_list_table('1: Buy milk')
 
         # Francis gets his own unique URL
@@ -100,7 +102,7 @@ class NewVisitorTest(LiveServerTestCase):
 
         # Again, there is no trace of Claire's list
         page_text = self.browser.find_element_by_tag_name('body').text
-        self.assertNotIn('Buy peacock feathers', page_text)
+        self.assertNotIn('Look for a post-office', page_text)
         self.assertIn('Buy milk', page_text)
 
         # Satisfied, they both go back to sleep
