@@ -3,6 +3,8 @@ from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 import unittest
 import time
+
+
 class NewVisitorTest(LiveServerTestCase):
 
     def setUp(self):
@@ -17,7 +19,7 @@ class NewVisitorTest(LiveServerTestCase):
         rows = table.find_elements_by_tag_name('tr')
         self.assertIn(row_text, [row.text for row in rows])
 
-    def test_can_start_a_list_and_retrieve_it_later(self):
+    def test_can_start_a_list_for_one_user(self):
         # Claires heard of a new to-do web app. She goes to the site
         # to check it out.
         self.browser.get(self.live_server_url)
@@ -42,13 +44,6 @@ class NewVisitorTest(LiveServerTestCase):
         inputbox.send_keys(Keys.ENTER)
         self.check_for_row_in_list_table('1: Look for a post-office')
 
-    #     table = self.browser.find_element_by_id('id_list_table')
-    #     rows = table.find_elements_by_tag_name('tr')
-    #     self.assertIn('1: Look for a post-office', [row.text for row in rows])
-    #     self.assertIn(
-    #     '2: Use peacock feathers to make a fly' ,
-    #      [row.text for row in rows]
-    # )
 
         # The text-box remains for her to input another item. She enters:
         # "Ask Kris to send over go-pro"
@@ -61,15 +56,51 @@ class NewVisitorTest(LiveServerTestCase):
         # on the list
         self.check_for_row_in_list_table('1: Look for a post-office')
         self.check_for_row_in_list_table('2: Ask Kris to send over go-pro')
-        self.fail('Finish the test!')
 
-        # Claire notices that the site has generated a unique URL for her.
-        # Along with explanatory text.
-
-        # She visits the URL and notices her to-do list is saved and still there.
 
         # Satisfied, she goes back to sleep.
-        browser.quit()
 
-if __name__ == '__main__':
-    unittest.main(warnings='ignore')
+    def test_multiple_users_can_start_lists_at_different_urls(self):
+        # Claire starts a new todo list
+        self.browser.get(self.live_server_url)
+        inputbox = self.browser.find_element_by_id('id_new_item')
+        inputbox.send_keys('Buy peacock feathers')
+        inputbox.send_keys(Keys.ENTER)
+        self.check_for_row_in_list_table('1: Buy peacock feathers')
+
+        # She notices that her list has a unique URL
+        claire_list_url = self.browser.current_url
+        self.assertRegex(claire_list_url, '/lists/.+')
+
+        # Now a new user, Francis, comes along to the site.
+
+        ## We use a new browser session to make sure that no information
+        ## of Claire's is coming through from cookies etc
+        self.browser.quit()
+        self.browser = webdriver.Firefox()
+
+        # Francis visits the home page.  There is no sign of Claire's
+        # list
+        self.browser.get(self.live_server_url)
+        page_text = self.browser.find_element_by_tag_name('body').text
+        self.assertNotIn('Buy peacock feathers', page_text)
+        self.assertNotIn('make a fly', page_text)
+
+        # Francis starts a new list by entering a new item. He
+        # is less interesting than Edith...
+        inputbox = self.browser.find_element_by_id('id_new_item')
+        inputbox.send_keys('Buy milk')
+        inputbox.send_keys(Keys.ENTER)
+        self.check_for_row_in_list_table('1: Buy milk')
+
+        # Francis gets his own unique URL
+        francis_list_url = self.browser.current_url
+        self.assertRegex(francis_list_url, '/lists/.+')
+        self.assertNotEqual(francis_list_url, edith_list_url)
+
+        # Again, there is no trace of Claire's list
+        page_text = self.browser.find_element_by_tag_name('body').text
+        self.assertNotIn('Buy peacock feathers', page_text)
+        self.assertIn('Buy milk', page_text)
+
+        # Satisfied, they both go back to sleep
