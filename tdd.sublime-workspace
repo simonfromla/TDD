@@ -1,0 +1,1337 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"For",
+				"ForeignKey\tclass"
+			],
+			[
+				"saved_is",
+				"saved_list"
+			],
+			[
+				"list",
+				"list_\tstatement"
+			],
+			[
+				"li",
+				"LiveServerTestCase\tclass"
+			],
+			[
+				"asser",
+				"assertEqual\tfunction"
+			],
+			[
+				"assert",
+				"assertEqual"
+			],
+			[
+				"htt",
+				"HttpResponse"
+			],
+			[
+				"SEC",
+				"SECRET_KEY"
+			],
+			[
+				"EMA",
+				"EMAIL_HOST_PASSWORD"
+			],
+			[
+				"Em",
+				"EMAIL_HOST_USER"
+			],
+			[
+				"cre",
+				"created"
+			],
+			[
+				"bg",
+				"bg_color"
+			],
+			[
+				"josn",
+				"json_data"
+			],
+			[
+				"twe",
+				"tweet_text"
+			],
+			[
+				"retw",
+				"retweeted"
+			],
+			[
+				"json",
+				"json_data"
+			],
+			[
+				"num",
+				"num_tweets_to_grab"
+			],
+			[
+				"retwe",
+				"retweet_count"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"User",
+				"UserLoginForm"
+			],
+			[
+				"vali",
+				"ValidationError"
+			],
+			[
+				"form",
+				"forms"
+			],
+			[
+				"clean",
+				"cleaned_data"
+			],
+			[
+				"login",
+				"login_view"
+			],
+			[
+				"chil",
+				"child_comment"
+			],
+			[
+				"Http",
+				"HttpResponse"
+			],
+			[
+				"Htt",
+				"Http404"
+			],
+			[
+				"parent_obj",
+				"parent_obj_url"
+			],
+			[
+				"get",
+				"get_absolute_url"
+			],
+			[
+				"read",
+				"read_time"
+			],
+			[
+				"read_",
+				"read_time_sec"
+			],
+			[
+				"count",
+				"count_words"
+			],
+			[
+				"html",
+				"html_string"
+			],
+			[
+				"initial",
+				"initial_data"
+			],
+			[
+				"object",
+				"object_id"
+			],
+			[
+				"content",
+				"content_object"
+			],
+			[
+				"cont",
+				"content_object"
+			],
+			[
+				"Comment",
+				"CommentManager"
+			],
+			[
+				"id",
+				"id"
+			],
+			[
+				"parent",
+				"parent_id"
+			],
+			[
+				"new",
+				"new_comment"
+			],
+			[
+				"conten",
+				"content_type"
+			],
+			[
+				"Comm",
+				"CommentManager"
+			],
+			[
+				"obj",
+				"obj_id"
+			],
+			[
+				"for",
+				"form"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"im",
+				"img-responsive"
+			],
+			[
+				"preview",
+				"preview-content"
+			],
+			[
+				"title",
+				"titleItem"
+			],
+			[
+				"titl",
+				"titleItem"
+			],
+			[
+				"page",
+				"PagedownWidget"
+			],
+			[
+				"marked",
+				"markedContent"
+			],
+			[
+				"markdo",
+				"markedContent"
+			],
+			[
+				"marke",
+				"markedContent"
+			],
+			[
+				"mark",
+				"markedContent"
+			],
+			[
+				"con",
+				"content-markdown"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"d",
+				"document"
+			],
+			[
+				"string",
+				"stringOfText"
+			],
+			[
+				"index",
+				"indexOfSmallest"
+			],
+			[
+				"array",
+				"arrayNumbers"
+			],
+			[
+				"arra",
+				"arrayNumbers"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"s",
+				"space-around"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"tra",
+				"translateX()"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"ro",
+				"rotateX()"
+			],
+			[
+				"tran",
+				"transform"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"box-d",
+				"box-shadow"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"shad",
+				"text-shadow"
+			],
+			[
+				"align",
+				"align-items"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"text",
+				"textarea\tTag"
+			],
+			[
+				"list-style",
+				"list-style-type"
+			],
+			[
+				"te",
+				"text-transform"
+			],
+			[
+				"onmoun",
+				"onmousedown\tAttr"
+			],
+			[
+				"border-top",
+				"border-top-right-radius"
+			],
+			[
+				"border-ra",
+				"border-top-left-radius"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"flex",
+				"flex"
+			],
+			[
+				"bord",
+				"border-top"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"c",
+				"cover"
+			],
+			[
+				"b",
+				"text-bottom"
+			],
+			[
+				"texti",
+				"text-underline-position"
+			],
+			[
+				"width",
+				"width"
+			],
+			[
+				"space",
+				"space-between"
+			],
+			[
+				"f",
+				"flex-start"
+			],
+			[
+				"ali",
+				"align-self"
+			],
+			[
+				"row",
+				"row"
+			],
+			[
+				"wi",
+				"max-width"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"po",
+				"pos-r\tposition: relative;"
+			],
+			[
+				"pos",
+				"pos-a\tposition: absolute;"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"blo",
+				"inline-block"
+			],
+			[
+				"t",
+				"text-bottom"
+			],
+			[
+				"alig",
+				"align-items"
+			],
+			[
+				"trans",
+				"transform"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"bo",
+				"box-shadow"
+			],
+			[
+				"spa",
+				"space-between"
+			],
+			[
+				"i",
+				"inline"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"inl",
+				"inline-flex"
+			],
+			[
+				"ord",
+				"order"
+			],
+			[
+				"fle",
+				"flex-grow"
+			],
+			[
+				"head",
+				"header\tTag"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"backg",
+				"background"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"type",
+				"typeof"
+			],
+			[
+				"ma",
+				"maxlength\tAttr"
+			],
+			[
+				"p",
+				"productName"
+			],
+			[
+				"try",
+				"try\tTry/Except"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "lists/tests.py",
+			"settings":
+			{
+				"buffer_size": 3647,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "superlists/urls.py",
+			"settings":
+			{
+				"buffer_size": 990,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lists/templates/home.html",
+			"settings":
+			{
+				"buffer_size": 500,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lists/models.py",
+			"settings":
+			{
+				"buffer_size": 210,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lists/views.py",
+			"settings":
+			{
+				"buffer_size": 754,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "functional_tests/tests.py",
+			"settings":
+			{
+				"buffer_size": 4135,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/SublimeREPL-python.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/python3.sublime-build",
+					""
+				],
+				[
+					"Packages/User/SublimeREPL-python.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/SublimeREPL-python.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/SublimeREPL-python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/SublimeREPL-python.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 303.0,
+		"last_filter": "insta",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"list packa",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"bro",
+				"Preferences: Browse Packages"
+			],
+			[
+				"user",
+				"Preferences: Settings - User"
+			],
+			[
+				"",
+				"Colorsublime: Browse Themes"
+			],
+			[
+				"the",
+				"Themr: Toggle Theme Settings"
+			],
+			[
+				"them",
+				"Themr: Random theme"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"brow",
+				"Colorsublime: Browse Themes"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"color",
+				"Colorsublime: Browse Themes"
+			],
+			[
+				"theme",
+				"Colorsublime: Browse Themes"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"colo",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"git",
+				"Package Control: Install Package"
+			],
+			[
+				"package control",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 401.0
+	},
+	"console":
+	{
+		"height": 140.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"y",
+			"asdf",
+			"1",
+			"print('hi')",
+			"print temperature",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"print hi",
+			"hello",
+			"hi",
+			"print('temperature')",
+			"temperature = 40",
+			"print('temperature')",
+			"Package Control: Install Package",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/sjung/Documents/django/testing-goat/superlists",
+		"/Users/sjung/Documents/django/testing-goat/superlists/lists",
+		"/Users/sjung/Documents/django/testing-goat/superlists/lists/migrations",
+		"/Users/sjung/Documents/django/testing-goat/superlists/lists/templates",
+		"/Users/sjung/Documents/django/testing-goat/superlists/superlists"
+	],
+	"file_history":
+	[
+		"/Users/sjung/Documents/django/testing-goat/superlists/lists/templates/list.html",
+		"/Users/sjung/Documents/django/testing-goat/superlists/lists/models.py",
+		"/Users/sjung/Documents/django/testing-goat/superlists/functional_tests.py",
+		"/Users/sjung/Documents/pprojects/onfire/onfire.py",
+		"/Users/sjung/Documents/test",
+		"/Users/sjung/Documents/flask/text.txt",
+		"/Users/sjung/Documents/django/testing-goat/superlists/superlists/settings.py",
+		"/Users/sjung/Documents/django/testing-goat/superlists/.git/COMMIT_EDITMSG",
+		"/Users/sjung/Documents/django/testing-goat/functional_tests.py",
+		"/Users/sjung/Documents/django/blog-api/src/templates/base.html",
+		"/Users/sjung/Documents/django/cfe/blog/src/accounts/forms.py",
+		"/Users/sjung/Documents/django/cfe/blog/src/accounts/apps.py",
+		"/Users/sjung/Documents/django/blog-api/.gitignore",
+		"/Users/sjung/Documents/django/cfe/blog/src/blog/urls.py",
+		"/Users/sjung/Documents/django/cfe/blog/src/blog/settings.py",
+		"/Users/sjung/Documents/django/blog-api/src/blog/settings/__init__.py",
+		"/Users/sjung/Documents/django/mysite/mysite/settings.py",
+		"/Users/sjung/Documents/pprojects/mysite/src/mysite/settings/base.py",
+		"/Users/sjung/Documents/pprojects/mysite/src/mysite/settings/local.py",
+		"/Users/sjung/Documents/pprojects/mysite/src/mysite/settings/production.py",
+		"/Users/sjung/Documents/pprojects/mysite/src/mysite/settings/__init__.py",
+		"/Users/sjung/Documents/pprojects/mysite/src/mysite/old_settings.py",
+		"/Users/sjung/Documents/pprojects/mysite/src/mysite/settings.py",
+		"/Users/sjung/Documents/pprojects/mysite/.gitignore",
+		"/Users/sjung/Documents/pprojects/TwitterAnalyser/Part6/twit1.py",
+		"/Users/sjung/Documents/flask/twantalyzin-project/twantalyzin/twit-analysis.py",
+		"/Users/sjung/Documents/flask/test/TwitterAnalyser/Part3/twit1.py",
+		"/Users/sjung/Documents/flask/twantalyzin-project/twantalyzin/.gitignore",
+		"/Users/sjung/Documents/flask/twantalyzin-project/twantalyzin/local_config.py",
+		"/Users/sjung/Documents/flask/requirements.txt",
+		"/Users/sjung/Documents/flask/tantalyzin/twit1.py",
+		"/Users/sjung/Documents/flask/tantalyzin/app3.py",
+		"/Users/sjung/Documents/flask/tantalyzin/create_db.py",
+		"/Users/sjung/Documents/pprojects/TwitterAnalyser/Part2/twit4.py",
+		"/Users/sjung/Documents/pprojects/TwitterAnalyser/Part2/twit2.py",
+		"/Users/sjung/Documents/pprojects/TwitterAnalyser/Part1/twit2_clean.py",
+		"/Users/sjung/Documents/pprojects/TwitterAnalyser/Part1/twit2.py",
+		"/Users/sjung/Documents/pprojects/TwitterAnalyser/Part1/twit1.py",
+		"/Users/sjung/Documents/django/cfe/blog/src/accounts/views.py",
+		"/Users/sjung/Documents/django/cfe/blog/src/templates/form.html",
+		"/Users/sjung/Documents/django/cfe/blog/src/comments/urls.py",
+		"/Users/sjung/Documents/django/cfe/blog/src/templates/confirm_delete.html",
+		"/Users/sjung/Documents/django/cfe/blog/src/comments/models.py",
+		"/Users/sjung/Documents/django/cfe/blog/src/posts/models.py",
+		"/Users/sjung/Documents/django/cfe/blog/src/templates/comment_thread.html",
+		"/Users/sjung/Documents/django/cfe/blog/src/comments/views.py",
+		"/Users/sjung/Documents/django/cfe/blog/src/templates/post_detail.html",
+		"/Users/sjung/Documents/django/cfe/blog/src/posts/views.py",
+		"/Users/sjung/Documents/django/cfe/blog/src/posts/utils.py",
+		"/Users/sjung/Documents/django/cfe/blog/src/templates/base.html",
+		"/Users/sjung/Documents/django/cfe/blog/src/static/css/base.css",
+		"/Users/sjung/Documents/django/cfe/blog/blog.sublime-project",
+		"/Users/sjung/Documents/django/cfe/blog/src/posts/forms.py",
+		"/Users/sjung/Documents/django/cfe/blog/src/comments/forms.py",
+		"/Users/sjung/Documents/django/cfe/blog/src/comments/admin.py",
+		"/Users/sjung/Documents/django/cfe/blog/src/templates/post_list.html",
+		"/Users/sjung/Documents/django/cfe/blog/src/templates/post_form.html",
+		"/Users/sjung/Documents/django/cfe/blog/src/comments/migrations/0001_initial.py",
+		"/Users/sjung/Documents/django/cfe/blog/src/manage.py",
+		"/Users/sjung/Documents/django/cfe/blog/src/blog/wsgi.py",
+		"/Users/sjung/Documents/django/cfe/blog/trydjango19.sublime-project",
+		"/Users/sjung/Desktop/untitled folder/explore_california/index.html",
+		"/Users/sjung/Desktop/untitled folder/explore_california/resources.html",
+		"/Users/sjung/Desktop/untitled folder/explore_california/tours.html",
+		"/Users/sjung/Desktop/untitled folder/explore_california/tours/tour_detail_backpack_cal.html",
+		"/Users/sjung/Desktop/untitled folder/explore_california/tours/tour_detail_bigsur.html",
+		"/Users/sjung/Desktop/untitled folder/explore_california/explorers.html",
+		"/Users/sjung/Desktop/untitled folder/explore_california/mission.html",
+		"/Users/sjung/Desktop/untitled folder/explore_california/support.html",
+		"/Users/sjung/Desktop/untitled folder/explore_california/resources/faq.html",
+		"/Users/sjung/Desktop/untitled folder/explore_california/tours/tour_detail_backpack.html",
+		"/Users/sjung/Desktop/untitled folder/explore_california/contact.html",
+		"/Users/sjung/Desktop/secondfile.txt",
+		"/Users/sjung/Desktop/thirdfile.txt",
+		"/Users/sjung/Desktop/deletethis.txt",
+		"/Users/sjung/Desktop/newfile.txt",
+		"/Users/sjung/Documents/django/mysite/personal/templates/personal/header.html",
+		"/Users/sjung/Documents/django/mysite/personal/templates/personal/basic.html",
+		"/Users/sjung/Documents/django/mysite/blog/templates/blog/post.html",
+		"/Users/sjung/Documents/django/mysite/blog/templates/blog/blog.html",
+		"/Users/sjung/Desktop/cs80-final-Project/personal-website/about-page.html",
+		"/Users/sjung/Desktop/createTable.php",
+		"/Users/sjung/Desktop/comicsPara/index.html",
+		"/Users/sjung/Desktop/comicsPara/functions.js",
+		"/Users/sjung/Desktop/cs80-final-Project/personal-website/animate.css",
+		"/Users/sjung/Documents/django/djangogirls/.gitignore",
+		"/Users/sjung/Documents/django/mysite/personal/templates/personal/home.html",
+		"/Users/sjung/Downloads/django-docs-1.10-en/index.html",
+		"/Users/sjung/Desktop/cs81-final-project/functions.js",
+		"/Users/sjung/Desktop/CS-local/ATBS/ch4Lists/returnListAsString.py",
+		"/Users/sjung/Desktop/CS-local/cis55/bookCodes/examples/ch05/final/guitarwars.sql",
+		"/Users/sjung/Desktop/CS-local/cis55/week4Other/ch05/final/guitarwars/index.php",
+		"/Users/sjung/Desktop/testphp.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/guitarwars/addscore.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/guitarwars/admin.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/applications.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/guitarwars/index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/dashboard/404.html",
+		"/Users/sjung/Desktop/CS-local/cis55/week4Other/ch05/final/guitarwars/index.html",
+		"/Users/sjung/Desktop/CS-local/cis55/week4Other/ch05/initial/guitarwars/index.php",
+		"/Users/sjung/Desktop/CS-local/cis55/week4Other/ch05/final/guitarwars.sql",
+		"/Users/sjung/Google Drive/cs80-final-Project 2/personal-website/about-page.html",
+		"/Users/sjung/Downloads/ch05/initial/guitarwars/addscore.php",
+		"/Users/sjung/Desktop/hello.py",
+		"/Users/sjung/Desktop/parallax-functions.js",
+		"/Users/sjung/Downloads/BuggyPrograms/BuggyLeapYear.html",
+		"/Users/sjung/Desktop/test.py",
+		"/Users/sjung/Desktop/CS-local/cs87aPython/tuition_calc_2.py",
+		"/Users/sjung/Library/Application Support/Sublime Text 3/Packages/SublimeREPL/config/Python/Main.sublime-menu",
+		"/Users/sjung/Library/Application Support/Sublime Text 3/Packages/User/sublimeREPL-python.sublime-build",
+		"/Users/sjung/Desktop/CS-local/cs87aPython/py_assignments/unit8ReadWriteFiles.py",
+		"/Users/sjung/Desktop/CS-local/cs87aPython/py_assignments/exceptionPractice.py",
+		"/Users/sjung/Desktop/CS-local/cis55/default.html",
+		"/Users/sjung/Desktop/CS-local/cs81js/test2/exam2-9.html",
+		"/Users/sjung/Desktop/CS-local/cs81js/test2/exam2-8.js",
+		"/Users/sjung/Desktop/CS-local/cs81js/test2/exam2-6.html",
+		"/Users/sjung/Desktop/CS-local/cs81js/test2/exam2-4.html",
+		"/Users/sjung/Desktop/CS-local/cs81js/test2/exam2-1.html",
+		"/Users/sjung/Desktop/CS-local/cs81js/test3/mouse-over-out/mouse-over-out.html",
+		"/Users/sjung/Downloads/Resource Links For Unit 4_ 2016 Fall - CS 52 (1749) [4..15] - Stahl - (O).htm",
+		"/Users/sjung/Desktop/CS-local/cis55/week1/talent.html",
+		"/Users/sjung/Downloads/default.html",
+		"/Users/sjung/Desktop/CS-local/cs80iProgramming/cs80_assignments/unit8.js",
+		"/Users/sjung/Desktop/cs80-final-Project/personal-website/projectv5.js",
+		"/Users/sjung/Desktop/cs81-final-project/index.html",
+		"/Users/sjung/Downloads/HoverEffectIdeas/css/set1.css",
+		"/Users/sjung/Downloads/HoverEffectIdeas/index.html"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 94.0,
+		"where_history":
+		[
+			"/Users/sjung/Documents/django/cfe/blog",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"list_item",
+			"block style",
+			"title",
+			"UserLoginForm",
+			"comment_thread",
+			"successfully",
+			"get_markdown",
+			"comment_thread",
+			"html",
+			"comment_thread",
+			"id",
+			"d",
+			">\\",
+			"upload_location",
+			"trydjango19",
+			"_backpack_cal.html",
+			"_backpack.html",
+			"4314",
+			"4315",
+			"strange",
+			"ruby",
+			"nav-up",
+			";\n",
+			"def",
+			"main",
+			"print",
+			"second"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"blog",
+			"_backpack_cal.html",
+			"4314"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "lists/tests.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3647,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3647,
+								3647
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2283.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "superlists/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 990,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								918,
+								918
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 287.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "lists/templates/home.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 500,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								159,
+								159
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "lists/models.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 210,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								93,
+								93
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "lists/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 754,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								754,
+								754
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 106.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 5,
+					"file": "functional_tests/tests.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4135,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3643,
+								3643
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2082.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.442621898633,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.anaconda_documentation":
+	{
+		"height": 146.0
+	},
+	"output.exec":
+	{
+		"height": 165.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 30.0
+	},
+	"pinned_build_system": "Packages/User/SublimeREPL-python.sublime-build",
+	"project": "tdd.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"python",
+				"*REPL* [python]"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 50.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
